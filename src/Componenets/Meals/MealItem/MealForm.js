@@ -14,7 +14,7 @@ const MealForm = (props) => {
 
     if (
       enteredAmountNumber < 1 ||
-      enteredAmount.trim().length == 0 ||
+      enteredAmount.trim().length === 0 ||
       enteredAmountNumber > 5
     ) {
       setAmountIsValid(false);
