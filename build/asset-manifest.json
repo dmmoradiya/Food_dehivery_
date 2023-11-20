@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Food_delhivery_/static/css/main.9cbb0789.css",
-    "main.js": "/Food_delhivery_/static/js/main.8500449d.js",
-    "static/media/meals.jpg": "/Food_delhivery_/static/media/meals.2971f633fc1382581cbf.jpg",
-    "index.html": "/Food_delhivery_/index.html",
-    "main.9cbb0789.css.map": "/Food_delhivery_/static/css/main.9cbb0789.css.map",
-    "main.8500449d.js.map": "/Food_delhivery_/static/js/main.8500449d.js.map"
+    "main.css": "./static/css/main.9cbb0789.css",
+    "main.js": "./static/js/main.ce95a950.js",
+    "static/media/meals.jpg": "./static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "./index.html",
+    "main.9cbb0789.css.map": "./static/css/main.9cbb0789.css.map",
+    "main.ce95a950.js.map": "./static/js/main.ce95a950.js.map"
   },
   "entrypoints": [
     "static/css/main.9cbb0789.css",
-    "static/js/main.8500449d.js"
+    "static/js/main.ce95a950.js"
   ]
 }
