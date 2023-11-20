@@ -1,14 +1,14 @@
 {
-  "main.css": "/static/css/main.0f705646.chunk.css",
-  "main.js": "/static/js/main.e47d0dc3.chunk.js",
-  "main.js.map": "/static/js/main.e47d0dc3.chunk.js.map",
-  "static/js/1.e50b47e3.chunk.js": "/static/js/1.e50b47e3.chunk.js",
-  "static/js/1.e50b47e3.chunk.js.map": "/static/js/1.e50b47e3.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/media/meals.jpg": "/static/media/meals.55c74990.jpg",
-  "static/css/main.0f705646.chunk.css.map": "/static/css/main.0f705646.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.94edd4f29afe22900dadbf8ed471a6d7.js": "/precache-manifest.94edd4f29afe22900dadbf8ed471a6d7.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/Food_delhivery_/static/css/main.0f705646.chunk.css",
+  "main.js": "/Food_delhivery_/static/js/main.e47d0dc3.chunk.js",
+  "main.js.map": "/Food_delhivery_/static/js/main.e47d0dc3.chunk.js.map",
+  "static/js/1.e50b47e3.chunk.js": "/Food_delhivery_/static/js/1.e50b47e3.chunk.js",
+  "static/js/1.e50b47e3.chunk.js.map": "/Food_delhivery_/static/js/1.e50b47e3.chunk.js.map",
+  "runtime~main.js": "/Food_delhivery_/static/js/runtime~main.159a5398.js",
+  "runtime~main.js.map": "/Food_delhivery_/static/js/runtime~main.159a5398.js.map",
+  "static/media/meals.jpg": "/Food_delhivery_/static/media/meals.55c74990.jpg",
+  "static/css/main.0f705646.chunk.css.map": "/Food_delhivery_/static/css/main.0f705646.chunk.css.map",
+  "index.html": "/Food_delhivery_/index.html",
+  "precache-manifest.46665e03a525334663be00a05a60acc2.js": "/Food_delhivery_/precache-manifest.46665e03a525334663be00a05a60acc2.js",
+  "service-worker.js": "/Food_delhivery_/service-worker.js"
 }
