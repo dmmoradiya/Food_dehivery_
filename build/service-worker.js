@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Food_delhivery_/precache-manifest.fd0dd0131431193859e8e7da7e17543e.js"
+  "/Food_delhivery_/precache-manifest.46665e03a525334663be00a05a60acc2.js"
 );
 
 workbox.clientsClaim();
